@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=ASP-134488-01
+PartCategory=Connector
+PackageCategory=Other
+PinCount=400
+Version=8.4
+Released=2017-03-07 09:26:47
+Downloaded=2025-12-09 21:44:08
+3D=Y

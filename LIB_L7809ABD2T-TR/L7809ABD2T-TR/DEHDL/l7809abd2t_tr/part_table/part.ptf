@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L7809ABD2T_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L7809ABD2T-TR" (!) = "", "STB30NM60ND", "Other", "511-L7809ABD2T-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7809ABD2T-TR?qs=za26I2nnnxk5FkRchhHExw%3D%3D", "L7809ABD2T-TR", "https://www.arrow.com/en/products/l7809abd2t-tr/stmicroelectronics?region=nac", "STMICROELECTRONICS - L7809ABD2T-TR - LINEAR VOLT REG, 1.5A, 9V, TO-263-3", "https://www.st.com/resource/en/datasheet/l78.pdf", "4.6 mm"
+END_PART
+
+END.

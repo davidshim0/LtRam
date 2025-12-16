@@ -1,0 +1,108 @@
+** Drc report for enzian_nor.kicad_pcb **
+** Created on 2025-12-16T12:52:23-0800 **
+
+** Found 6 DRC violations **
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(40.0000 mm, 107.5000 mm): Via [VCC] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(23.0000 mm, 91.5000 mm): Via [VCC] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(48.0000 mm, 118.5000 mm): Via [VCC] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(44.0000 mm, 115.0000 mm): Via [VCC] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(57.0000 mm, 111.5000 mm): Via [VCC] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(73.5000 mm, 128.0000 mm): Via [VCC] on F.Cu - B.Cu
+
+** Found 20 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(83.0000 mm, 72.5000 mm): Pad 1 [/NOR_C] of TP_C1 on F.Cu
+    @(71.2400 mm, 92.0000 mm): Track [/NOR_C] on B.Cu, length 0.1200 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.5875 mm, 107.5000 mm): Track [VCC] on F.Cu, length 1.5875 mm
+    @(29.3300 mm, 92.1200 mm): Pad G39 [VCC] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.5875 mm, 107.5000 mm): Pad 1 [VCC] of R4 on F.Cu
+    @(47.5000 mm, 107.0000 mm): Pad E4 [VCC] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(46.0000 mm, 114.5000 mm): Track [VCC] on F.Cu, length 0.5000 mm
+    @(48.0000 mm, 116.9125 mm): Track [VCC] on F.Cu, length 1.5875 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.5000 mm, 107.0000 mm): Pad E4 [VCC] of U1 on F.Cu
+    @(47.5000 mm, 110.0000 mm): Track [VCC] on F.Cu, length 0.7071 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(50.5000 mm, 108.0000 mm): Track [VCC] on F.Cu, length 3.0500 mm
+    @(47.5000 mm, 107.0000 mm): Pad E4 [VCC] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53.5500 mm, 108.5000 mm): Pad 1 [VCC] of C5 on F.Cu
+    @(55.4125 mm, 111.5000 mm): Track [VCC] on F.Cu, length 1.5875 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 111.5000 mm): Via [VCC] on F.Cu - B.Cu
+    @(71.5000 mm, 128.0000 mm): Track [VCC] on F.Cu, length 2.0000 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(76.5000 mm, 73.0000 mm): Pad 1 [/NOR_DQ2] of TP_DQ2 on F.Cu
+    @(62.5000 mm, 90.5000 mm): Track [/NOR_DQ2] on B.Cu, length 1.4142 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(62.5000 mm, 92.0000 mm): Track [/NOR_DQ3] on B.Cu, length 0.0300 mm
+    @(95.5000 mm, 67.5000 mm): Pad 1 [/NOR_DQ3] of TP_DQ3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(72.0000 mm, 77.0000 mm): Pad 1 [/NOR_DQ0] of TP_DQ0 on F.Cu
+    @(67.5000 mm, 92.0500 mm): Track [/NOR_DQ0] on B.Cu, length 0.0990 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53.5000 mm, 72.5000 mm): Pad 1 [/NOR_S#] of TP_S on F.Cu
+    @(52.1900 mm, 92.1200 mm): Via [/NOR_S#] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(90.7990 mm, 73.4996 mm): Pad 1 [/NOR_DQ7] of TP_DQ7 on F.Cu
+    @(55.0000 mm, 105.5000 mm): Track [/NOR_DQ7] on B.Cu, length 13.1100 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(58.5000 mm, 92.0800 mm): Track [/NOR_DQ5] on B.Cu, length 0.0566 mm
+    @(62.0000 mm, 72.0000 mm): Pad 1 [/NOR_DQ5] of TP_DQ5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.2990 mm, 70.9996 mm): Pad 1 [/NOR_DQ1] of TP_DQ1 on F.Cu
+    @(66.1600 mm, 92.1200 mm): Pad G10 [/NOR_DQ1] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(69.0000 mm, 101.0000 mm): Track [/NOR_DQS] on B.Cu, length 12.5000 mm
+    @(101.7990 mm, 66.9996 mm): Pad 1 [/NOR_DQS] of TP_DQS1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(60.0000 mm, 99.5000 mm): Track [/NOR_DQ4] on B.Cu, length 7.5000 mm
+    @(70.5000 mm, 72.0000 mm): Pad 1 [/NOR_DQ4] of TP_DQ4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(50.9200 mm, 92.1200 mm): Via [/NOR_RESET#] on F.Cu - B.Cu
+    @(46.5000 mm, 73.0000 mm): Pad 1 [/NOR_RESET#] of TP_RESET on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(56.0000 mm, 104.5000 mm): Track [/NOR_DQ6] on B.Cu, length 12.3914 mm
+    @(38.5000 mm, 74.0000 mm): Pad 1 [/NOR_DQ6] of TP_DQ6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.3486 mm, 113.1514 mm): Track [/VPP] on F.Cu, length 1.1831 mm
+    @(52.0000 mm, 119.0000 mm): Pad 1 [/VPP] of TP_VPP1 on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

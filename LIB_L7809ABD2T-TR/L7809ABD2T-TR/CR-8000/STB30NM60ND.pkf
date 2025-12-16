@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "STB30NM60ND"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "STB30NM60ND")
+        (spec "default")
+    )
+)

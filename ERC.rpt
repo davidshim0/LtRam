@@ -1,0 +1,36 @@
+ERC report (2025-12-04T12:06:07-0800, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(650 mils, 550 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(1700 mils, 650 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(4200 mils, 1450 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(5700 mils, 1550 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'MT35XU02GCBA1G12-0AUT' doesn't match copy in library 'MT35XU02GCBA1G12-0AUT'
+    ; warning
+    @(1750 mils, 6750 mils): Symbol U1 [MT35XU02GCBA1G12-0AUT]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(7400 mils, 1600 mils): Symbol J1 [ASP-134488-01]
+[multiple_net_names]: Both GND and VSS are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(3750 mils, 6350 mils): Symbol #PWR010 Pin 1 [Power input, Line]
+    @(2450 mils, 7450 mils): Symbol U1 Hidden pin C1 [VSS, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(8750 mils, 1550 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(9900 mils, 1600 mils): Symbol J1 [ASP-134488-01]
+[lib_symbol_mismatch]: Symbol 'ASP-134488-01' doesn't match copy in library '134488-01'
+    ; warning
+    @(10900 mils, 1550 mils): Symbol J1 [ASP-134488-01]
+
+ ** ERC messages: 10  Errors 0  Warnings 10

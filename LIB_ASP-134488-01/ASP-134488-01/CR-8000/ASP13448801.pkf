@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ASP13448801"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ASP13448801")
+        (spec "default")
+    )
+)
