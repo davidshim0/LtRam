@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -102,7 +102,7 @@
       91,
       91,
       91,
-      645
+      2060
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -114,7 +114,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": 2
+    "sorting_column": 1
   },
   "open_jobsets": [],
   "project": {
