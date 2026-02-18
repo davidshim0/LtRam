@@ -1,0 +1,10 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP
+C1,330n,~,Capacitor_SMD:C_0805_2012Metric,1,
+"C2,C3,C4",100n,~,Capacitor_SMD:C_0805_2012Metric,3,
+"Clock1,DQ0,DQ1,DQ2,DQ3,DQ4,DQ5,DQ6,DQ7,DQS1,GND1,RESET#1,S#1,TP_VPP1",TestPoint,~,"TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm,TestPoint:TestPoint_Pad_D1.0mm",14,
+IC1,L7809ABD2T-TR,https://www.st.com/resource/en/datasheet/l78.pdf,STB30NM60ND:STB30NM60ND,1,
+J1,ASP-134488-01,http://suddendocs.samtec.com/prints/asp-134488-01-mkt.pdf,134488-01_Mouser:ASP13448801,1,
+"R1,R3,R4",10k,~,Resistor_SMD:R_0805_2012Metric,3,
+R2,1.8k,~,Resistor_SMD:R_0805_2012Metric,1,
+TP_VCC1,VCC,~,TestPoint:TestPoint_Pad_D1.0mm,1,
+U1,MT35XU02GCBA1G12-0AUT,,MicronNorChip:BGA24C100P5X5_800X600X120N,1,

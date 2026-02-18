@@ -10725,10 +10725,6 @@
 		(uuid "62968cbb-2aef-49f1-98b1-7e1117f68e05")
 	)
 	(no_connect
-		(at 209.55 440.69)
-		(uuid "62a1080a-b5a5-483c-9964-116763c81c9f")
-	)
-	(no_connect
 		(at 234.95 54.61)
 		(uuid "62bae454-0694-4692-a7f3-c34348efe8f1")
 	)
@@ -11101,10 +11097,6 @@
 		(uuid "ce6d1c84-1464-48db-85e0-ccf5e657c1ab")
 	)
 	(no_connect
-		(at 234.95 36.83)
-		(uuid "cf63f718-a909-46dc-bf16-4ed04532f8fb")
-	)
-	(no_connect
 		(at 209.55 11.43)
 		(uuid "d0f5d72f-4aab-414c-8107-a51926f06c0b")
 	)
@@ -11211,10 +11203,6 @@
 	(no_connect
 		(at 209.55 356.87)
 		(uuid "ef87616f-869e-4d91-9f52-f764c5e6c26a")
-	)
-	(no_connect
-		(at 234.95 240.03)
-		(uuid "f39ccdc7-8b0e-4195-863b-0af6319679af")
 	)
 	(no_connect
 		(at 209.55 367.03)
@@ -11842,6 +11830,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 36.83) (xy 260.35 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1efab9cc-f101-4d27-bad0-d62b34394d25")
+	)
+	(wire
+		(pts
 			(xy 208.28 135.89) (xy 209.55 135.89)
 		)
 		(stroke
@@ -12412,6 +12410,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 440.69) (xy 184.15 440.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41dd6c4a-4f52-4eee-9eec-94da541ad571")
+	)
+	(wire
+		(pts
 			(xy 234.95 207.01) (xy 236.22 207.01)
 		)
 		(stroke
@@ -12959,6 +12967,16 @@
 			(type default)
 		)
 		(uuid "63515d1d-b5dc-4a14-bb5d-c24570001a37")
+	)
+	(wire
+		(pts
+			(xy 234.95 240.03) (xy 260.35 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6394d9ff-06a9-4332-988f-d39bf6583227")
 	)
 	(wire
 		(pts
@@ -15110,6 +15128,16 @@
 		)
 		(uuid "2b281760-641c-4801-8683-c289330c42ec")
 	)
+	(label "VCC"
+		(at 184.15 440.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2c0b04a3-7633-47ea-9d40-3f7f868cb5fb")
+	)
 	(label "NOR_DQ2"
 		(at 107.95 124.46 0)
 		(effects
@@ -15190,6 +15218,16 @@
 		)
 		(uuid "62c8cbf1-a3a5-40ae-a97c-a3342a3c4f6c")
 	)
+	(label "VCC"
+		(at 260.35 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6eda90d2-e898-4b94-9df3-0a06c045d3d3")
+	)
 	(label "12V_PSUP"
 		(at 139.7 185.42 0)
 		(effects
@@ -15229,6 +15267,16 @@
 			(justify left bottom)
 		)
 		(uuid "7d6da777-399d-4910-92c7-3cc405ba6041")
+	)
+	(label "VCC"
+		(at 260.35 240.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e443a7b-b78f-43bb-90a9-2262b88cd0aa")
 	)
 	(label "NOR_DQ7"
 		(at 107.95 137.16 0)
